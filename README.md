@@ -12,32 +12,15 @@ There are some functions in the program to manipulate the matrix such as
 NOTE: None of them apply the modifications in place, instead a new matrix/value is created
 
 
-det(matrix) 
+det(matrix) --> calculate the determinant
 
-which calculate the determinant
+remove_col(matrix, row, col) --> which remove the given row and column
 
+adjoint(matrix) --> which calculates the adjoint of the matrix
 
-remove_col(matrix, row, col) 
+inverse(matrix) --> which calculates the inverted matrix
 
-which remove the given row and column
-
-
-adjoint(matrix) 
-
-which calculates the adjoint of the matrix
-
-
-
-inverse(matrix) 
-
-which calculates the inverted matrix
-
-
-
-transpose(matrix) 
-
-
-which returns the transpose of matrix
+transpose(matrix) --> which returns the tanspose of matrix
 
 
 
