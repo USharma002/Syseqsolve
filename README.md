@@ -9,8 +9,6 @@ This program solve the system of equations given:
 There are some functions in the program to manipulate the matrix such as
 
 
-NOTE: None of them apply the modifications in place, instead a new matrix/value is created
-
 
 det(matrix) --> calculate the determinant
 
