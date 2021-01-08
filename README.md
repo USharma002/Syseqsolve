@@ -35,6 +35,8 @@ There are some functions in the program to manipulate the matrix such as
 
 ### solve(matrix, rounding) is used to solve the equations
 
-# NOTE: if the determinant of matrix of variables is 0 then it will return an error even if there is a solution to it
+# NOTE: 
+
+* if the determinant of matrix of variables is 0 then it will return an error even if there is a solution to it
 
 example : 2x + 4y = 6, x + 2y = 3
